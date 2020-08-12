@@ -8,7 +8,7 @@
 
  - You will need to use git from time to time to post new posts but thats about it!
 
- - The ``_config.yml`** holds most of the major configurations that you will want to change.
+ - The ``_config.yml`` holds most of the major configurations that you will want to change.
 
  - All in all, its a pretty shallow learning curve to get started with this type of blog and
    I can help with various peices easily because of, well, git. But honestly ive made this
