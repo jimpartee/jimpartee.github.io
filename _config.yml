@@ -1,0 +1,25 @@
+title:              Jim Partee's Blog
+email:              jimpartee@gmail.com
+description:        Essays, Poems, and General Musings
+author:             Jim Partee
+baseurl:            "/jimpartee-blog"
+url:                "https://spartee.github.io"
+
+# Social Profiles
+twitter_username:   jim_partee
+github_username:    jimpartee
+facebook_username:
+instagram_username:
+linkedin_username: jim-partee
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
