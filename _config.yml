@@ -2,8 +2,8 @@ title:              Wedge Head Skunk
 email:              wedgeheadskunk@gmail.com
 description:        A newsletter about food and technology
 author:             Jim Partee
-baseurl:            "/jimpartee-blog"
-url:                "https://spartee.github.io"
+baseurl:            "/home"
+url:                "http://wedgeheadskunk.com"
 
 # Social Profiles
 twitter_username:   wedgeheadskunk
